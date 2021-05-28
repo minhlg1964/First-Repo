@@ -4,3 +4,6 @@ Java
 Java Script
 Html
 CSS
+Python
+Git
+
